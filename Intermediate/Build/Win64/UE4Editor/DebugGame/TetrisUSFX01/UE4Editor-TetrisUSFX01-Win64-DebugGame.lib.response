@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TetrisUSFX01-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\TetrisUSFX01Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Block.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Board.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Controles.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Piece.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Block.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Board.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Controles.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Piece.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01.init.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\TetrisUSFX01GameModeBase.gen.cpp.obj"
+"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Default.rc2.res"
+/OUT:"D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\UE4Editor-TetrisUSFX01-Win64-DebugGame.lib"

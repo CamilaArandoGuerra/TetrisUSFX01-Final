@@ -1,0 +1,5 @@
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\unreal\Nueva carpeta\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Source\TetrisUSFX01/Controles.h
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Controles.generated.h

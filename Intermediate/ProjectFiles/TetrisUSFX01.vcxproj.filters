@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TetrisUSFX01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DFF1A8DA-2D84-4935-9439-D47D2E267B0A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TetrisUSFX01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TetrisUSFX01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{3724CF29-D8DD-4B0E-A574-0A49D10B5FEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TetrisUSFX01">
+      <UniqueIdentifier>{521EA6C5-A8A1-4F78-BCAA-7F4027493B4D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Block.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Block.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Board.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Board.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Controles.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Controles.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Piece.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Piece.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.Build.cs">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\TetrisUSFX01GameModeBase.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

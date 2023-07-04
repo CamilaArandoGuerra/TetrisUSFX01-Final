@@ -1,0 +1,3 @@
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Source\TetrisUSFX01\Controles.h
+D:\examen final tetris\Nueva carpeta\TetrisUSFX01\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Controles.generated.h
